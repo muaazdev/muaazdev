@@ -1,16 +1,80 @@
-# 💫 About Me:
-An AI Enthusiast, teaching machines how to be ~not~ human. ;)
+# Hi, I'm Muaaz Ahmad 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/w4PnF4RW) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muaazdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muaazdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muaazdev) [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=Medium&logoColor=white)](https://medium.com/@muaazdev)
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muaazdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCkBC90wcXFeQ3H8H6DnmVgg) 
+**Senior AI/ML Engineer** with 4+ years of production experience building end-to-end AI systems — from RAG pipelines and multi-agent architectures to real-time voice agents and GPU-optimized inference services.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+Currently based in **Dammam, Saudi Arabia**.
+
+---
+
+### 💼 What I Do
+
+I build AI systems that actually ship to production — not just prototypes. My work spans the full lifecycle: architecture, training, optimization, deployment, and monitoring.
+
+- **LLMs & Generative AI** — RAG pipelines, multi-agent systems (LangGraph, CrewAI), LLM fine-tuning (LoRA, QLoRA), prompt engineering
+- **MLOps & Infrastructure** — CI/CD for ML (GitHub Actions), Docker, AWS (ECS, EC2, Lambda, SageMaker), model serving, auto-scaling
+- **Computer Vision** — Object detection & tracking (YOLO, ByteTrack), segmentation (SAM), pose estimation, video analytics
+- **Voice AI** — Real-time voice agents with Whisper (STT), custom TTS, VAPI, Twilio/Telnyx integration
+- **Backend** — FastAPI async services, Redis caching, request batching, <200ms p95 latency at scale
+
+---
+
+### 🏗️ Production Experience Highlights
+
+**No-Code Multi-Agent Builder Platform** — Built a platform where users create and deploy custom AI agents without coding. Deployed on AWS ECS with Docker, auto-scaling, and load balancing handling concurrent users with sub-second latency.
+
+**High-Throughput LLM Inference Service** — Designed FastAPI async endpoints with request batching and Redis caching achieving 10x latency reduction and <200ms p95 latency under load.
+
+**LegalMind** — Modular RAG system for legal document Q&A featuring hybrid search (vector + BM25), Cohere cross-encoder reranking, mandatory citation validation, and AI evaluation agents (adversarial test generation, hallucination detection, citation verification) with CI/CD pipeline.
+
+**Real-Time Sports Video Analytics** — Custom YOLO training for player/puck tracking in ice hockey. Optimized from 8 FPS to 25+ FPS via TensorRT quantization and GPU optimization.
+
+**Real-Time Voice Agent** — Built calling agent using Twilio/Telnyx with Whisper for STT and custom TTS. Sub-1s end-to-end latency with VAD-based turn-taking and interruption handling.
+
+**Stable Diffusion Production APIs** — Fine-tuned on custom datasets. Built production serving with request queuing and horizontal scaling for face restoration, AI aging, and image editing.
+
+---
+
+### 🚀 Open Source Projects
+
+| Project | What It Does | Stack | Status |
+|---------|-------------|-------|--------|
+| [**DocMind**](https://github.com/muaazdev/DocMind) | Multi-tenant RAG platform with hybrid search, reranking & evaluation | LangChain, Pinecone, FastAPI, Docker | ✅ Live |
+| [**LegalMind**](https://github.com/muaazdev/legalmind) | Legal document Q&A with hybrid search, citation validation & eval agents | LangChain, Cohere, FastAPI, CI/CD | ✅ Live |
+| **AgentForge** | Multi-agent task orchestration with LangGraph state machines | LangGraph, CrewAI, MCP, Python | 🔨 Coming Soon |
+| **CallBot AI** | AI voice agent — answers calls, books appointments, syncs CRM | VAPI, Twilio, OpenAI, FastAPI | 🔨 Coming Soon |
+| **FlowPilot** | AI-powered workflow automation suite | n8n, Python, OpenAI API | 🔨 Coming Soon |
+| **MCP Toolkit** | Production-ready MCP servers for LLM tool integration | FastMCP, Python, Docker | 🔨 Coming Soon |
+| **SmartServe** | AI customer support system with RAG + agent handoff | LangGraph, FastAPI, React | 🔨 Coming Soon |
+
+---
+
+### 🛠️ Tech Stack
+
+```
+LLMs & GenAI:     LangChain, LangGraph, CrewAI, MCP, LlamaIndex, OpenAI, Claude, Gemini
+                  Fine-tuning: LoRA, QLoRA, PEFT | Models: Llama, Mistral, Gemma
+RAG:              Pinecone, ChromaDB, Qdrant, Weaviate, FAISS, Cohere Reranking
+Voice AI:         VAPI, Twilio, Telnyx, Whisper, Deepgram, ElevenLabs, Coqui TTS
+Computer Vision:  YOLO, ByteTrack, SAM, TensorRT, OpenCV, Stable Diffusion
+MLOps:            Docker, GitHub Actions CI/CD, AWS ECS, Model Serving, Auto-scaling
+                  vLLM, ONNX, TensorRT, Prefect
+Cloud:            AWS (ECS, EC2, S3, Lambda, SageMaker, CloudWatch), GCP
+Backend:          Python, FastAPI, Node.js, REST APIs, WebSockets, Async Programming
+Data:             PostgreSQL, MongoDB, Redis, Vector DBs, Pandas, NumPy
+ML/DL:            PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
+```
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 **Website**: [muaazdev.com](https://muaazdev.com)
+- 💬 **LinkedIn**: [muaazdev](https://linkedin.com/in/muaazdev)
+- 📧 **Email**: [muaazahmed93@gmail.com](mailto:muaazahmed93@gmail.com)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muaazdev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muaazdev&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muaazdev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=muaazdev&icon=0&color=0)](https://visitcount.itsvg.in)
