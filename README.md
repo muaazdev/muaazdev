@@ -78,3 +78,13 @@ ML/DL:            PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
 ![](https://github-readme-stats.vercel.app/api?username=muaazdev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muaazdev&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muaazdev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+# 🐍 Contribution Snake
+![Snake animation](https://github.com/muaazdev/muaazdev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📊 AI Token Stats:
+[![Tokscale Stats](https://tokscale.ai/api/embed/muaazdev/svg?compact=1)](https://tokscale.ai/u/muaazdev)
