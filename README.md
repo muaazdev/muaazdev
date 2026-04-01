@@ -88,4 +88,3 @@ ML/DL:            PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
 
 # 🐍 Contribution Snake
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/muaazdev/muaazdev/output/github-contribution-grid-snake.svg)
-
