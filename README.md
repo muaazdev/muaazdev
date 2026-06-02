@@ -2,7 +2,7 @@
 
 **Senior AI/ML Engineer** with 5+ years of production experience building end-to-end AI systems — from RAG pipelines and multi-agent architectures to real-time voice agents and GPU-optimized inference services.
 
-Currently based in **Dammam, Saudi Arabia**.
+Currently based in **Riyadh, Saudi Arabia**.
 
 ---
 
