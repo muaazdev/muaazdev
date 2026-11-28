@@ -40,7 +40,7 @@ I build AI systems that actually ship to production — not just prototypes. My 
 |---------|-------------|-------|--------|
 | [**DocMind**](https://github.com/muaazdev/DocMind) | Multi-tenant RAG platform with hybrid search, reranking & evaluation | LangChain, Pinecone, FastAPI, Docker | ✅ Live |
 | [**LegalMind**](https://github.com/muaazdev/legalmind) | Legal document Q&A with hybrid search, citation validation & eval agents | LangChain, Cohere, FastAPI, CI/CD | ✅ Live |
-| **AgentForge** | Multi-agent task orchestration with LangGraph state machines | LangGraph, CrewAI, MCP, Python | 🔨 Coming Soon |
+| [**AgentForge**](https://github.com/muaazdev/agentforge) | Multi-agent task orchestration with LangGraph state machines | LangGraph, CrewAI, MCP, Python | ✅ Live |
 | **CallBot AI** | AI voice agent — answers calls, books appointments, syncs CRM | VAPI, Twilio, OpenAI, FastAPI | 🔨 Coming Soon |
 | **FlowPilot** | AI-powered workflow automation suite | n8n, Python, OpenAI API | 🔨 Coming Soon |
 | **MCP Toolkit** | Production-ready MCP servers for LLM tool integration | FastMCP, Python, Docker | 🔨 Coming Soon |
